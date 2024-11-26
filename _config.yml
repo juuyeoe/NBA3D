@@ -15,17 +15,22 @@
 # in the templates via {{ site.myvariable }}.
 
 # Build settings
+title: scenederella      # 사이트 제목
+description: ICCE2025  # 사이트 설명
+baseurl: "/project_website"  # repository 이름 
+url: "https://a3ang.github.io"  # GitHub Pages URL
+
+# Build settings
 markdown: kramdown
-baseurl: "/project_website"  # repository 이름
-url: "https://a3ang.github.io"  # 본인의 github username으로 변경
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+remote_theme: pages-themes/cayman@v0.2.0  # GitHub Pages 테마 사용 (선택사항)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .git/
