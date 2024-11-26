@@ -62,7 +62,7 @@ SCENEDERELLA aims to democratize 3D scene creation by providing a user-friendly 
 1. **Iterative Scene Refinement**: Users can repeatedly regenerate 2D scenes based on their text prompts until the output aligns with their creative vision.
 2. **Personalized Scene Generation**: The system adapts to user inputs, ensuring outputs are tailored to individual preferences, whether for film, gaming, or advertising applications.
 
-!(./static/images/framework.png)
+!(/static/images/framework.png)
 
 *Figure 1: A Framework of SCENEDERELLA.*
 
