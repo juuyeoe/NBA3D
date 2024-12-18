@@ -62,8 +62,6 @@ tectors used.
 
 
 
-![Framework](/static/images/figure2.png)
-*Figure 1: A Framework of NBA3D.*
 
 
 
