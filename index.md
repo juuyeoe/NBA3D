@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: "SCENEDERELLA: Text-Driven 3D Scene Generation for Realistic Artboard"
+title: "NBA3D: Neighbor-Based Confidence Adjustment for 3D Rare Object Detection Using LiDAR"
 authors:
   - name: "Jungmin Lee"
     url: "https://sites.google.com/vilab.cau.ac.kr/jungminleeshomepage/%ED%99%88"
