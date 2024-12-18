@@ -22,6 +22,11 @@ affiliations:
 homepage: https://www.vilab.cau.ac.kr/
 ---
 
+
+![Framework](/static/images/figure2.png)
+*Figure 1: A Framework of NBA3D.*
+
+
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
@@ -57,8 +62,8 @@ tectors used.
 
 
 
-![Framework](/static/images/framework.png)
-*Figure 1: A Framework of SCENEDERELLA.*
+![Framework](/static/images/figure2.png)
+*Figure 1: A Framework of NBA3D.*
 
 
 
