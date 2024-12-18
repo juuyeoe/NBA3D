@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Website
 
 This repository jekyll-ized the source code for the [Nerfies website](https://nerfies.github.io).
@@ -14,3 +15,6 @@ jekyll serve
 ```
 in this directory.
 Then you can see the website at `http://127.0.0.1:4000`.
+=======
+# NBA3D
+>>>>>>> 146404ce5db90b964a1569b6ec5926b05646f793
