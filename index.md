@@ -4,12 +4,8 @@ permalink: /
 
 title: "NBA3D: Neighbor-Based Confidence Adjustment for 3D Rare Object Detection Using LiDAR"
 authors:
-  - name: "Jungmin Lee"
+  - name: "Jooyoung Lee"
     url: "https://sites.google.com/vilab.cau.ac.kr/jungminleeshomepage/%ED%99%88"
-    affiliation: 1
-    is_coauthor: true
-  - name: "Haeun Noh"
-    url: "https://sites.google.com/view/haeunnoh/%ED%99%88"
     affiliation: 1
     is_coauthor: true
   - name: "Jaeyoon Lee"
