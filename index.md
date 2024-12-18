@@ -5,8 +5,10 @@ permalink: /
 title: "NBA3D: Neighbor-Based Confidence Adjustment for 3D Rare Object Detection Using LiDAR"
 authors:
   - name: "Jooyoung Lee"
+    url: "https://scholar.google.co.kr/citations?user=F3u9qHcAAAAJ&hl=ko"
     affiliation: 1
   - name: "Jaeyoon Lee"
+    url: "https://scholar.google.co.kr/citations?user=F3u9qHcAAAAJ&hl=ko"
     affiliation: 1
   - name: "Jongwon Choi"
     url: "https://scholar.google.co.kr/citations?user=F3u9qHcAAAAJ&hl=ko"
